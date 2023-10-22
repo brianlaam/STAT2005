@@ -1,1 +1,3 @@
 # STAT2005
+
+CUHK 23/24 Term 1
