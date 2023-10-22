@@ -22,7 +22,7 @@ b
 k <- cumsum(b)
 k <- as.ts(k)
 plot(k, main="Random Walk")
-abline(h=10)
-abline(h=0)
+abline(h=max(k))
+abline(h=min(k))
 
 k<0
