@@ -1,4 +1,4 @@
 # STAT2005
 
-CUHK 23/24 Term 1
+CUHK 23/24 Term 1 \n
 Programming Languages for Statistics
